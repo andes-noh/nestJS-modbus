@@ -1,12 +1,5 @@
 # NestJs-Modbus-TCP Project(v0.1)
 
-## 1.개요
-
-- yarn upgrade ts-node-dev@latest ts-node@latest 버전 업그레이드
-- Modbus연결을 위한 패키지 추가(jsmodbus)
-- [about Modbus][id]
-  [id]: https://modbus.org/ 'Modbus'
-
 ## Runtime
 - [Node JS](https://nodejs.org/ko/)
 
@@ -40,6 +33,6 @@ tsc --build --force
 ## 라이브러리
 - [jsmodbus](https://www.npmjs.com/package/jsmodbus)
 
-## 기타
-- 
+## About modbus
+- [about Modbus](https://modbus.org/)
 
