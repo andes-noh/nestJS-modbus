@@ -7,16 +7,6 @@
 - [about Modbus][id]
   [id]: https://modbus.org/ 'Modbus'
 
-## 2.실행
-
-- yarn
-- yarn debug
-
-## 3. .env
-
-- MODBUS_HOST: 연결할 ip 설정
-- MODBUS_PORT: 연결할 port 설정
-
 ## Runtime
 - [Node JS](https://nodejs.org/ko/)
 
@@ -45,8 +35,11 @@ tsc --build --force
 ## 설정
 - /.env file(host, port) 수정
 - default host: localhost
-- default port: 8080
+- default port: 502
 
 ## 라이브러리
 - [jsmodbus](https://www.npmjs.com/package/jsmodbus)
+
+## 기타
+- 
 
